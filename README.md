@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
+🔭 Undergraduate student at Imperial
 
 <!--
 **sx2022/sx2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
