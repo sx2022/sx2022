@@ -1,5 +1,6 @@
 ### Hi there 👋
-🔭 Undergraduate student at Imperial
+🔭 Undergraduate student at Imperial 
+😄 happy
 
 <!--
 **sx2022/sx2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
